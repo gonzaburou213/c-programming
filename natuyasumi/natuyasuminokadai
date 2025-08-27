@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>夏休みの思い出</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            background-color: #87ceeb;
+            padding: 20px;
+            border-radius: 10px;
+            color: white;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+
+        .memory {
+            background-color: #ffffffcc;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        .memory h2 {
+            color: #2e8b57;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🌻 夏休みの思い出 🌊</h1>
+        </header>
+
+            <!-- 川の思い出（新しいセクション） -->
+            <img src="https://d.kuku.lu/8wfapc6my" alt="川の写真">
+            
+            <section class="memory">
+                <h2>友達と川遊び</h2>
+                <p>
+                    夏休みのある日は、友達と一緒に近くの川に行きました。<br>
+                    冷たい水の中で魚を探したり、石を投げて水切りをして遊びました。<br>
+                    お弁当を持って行って、川辺で食べたのもいい思い出です。<br>
+                    帰りにはみんなで温泉に行きました。
+                </p>
+            </section>
+        </main>
+        <!-- 夏祭りの思い出（新しいセクション） -->
+<img src="https://d.kuku.lu/capk8rmwb" alt="夏祭りの写真">
+
+<section class="memory">
+    <h2>夏祭りの夜</h2>
+    <p>
+        夏休みに、地元の夏祭りや西大寺の祭りに行きました。<br>
+        友達と屋台をまわったり、いろんなものを食べたりしてとても楽しかったです。<br>
+        夜には大きな花火が打ち上げられて、空いっぱいに広がる光に感動していました。<br>
+        来年もまた行きたいと思える、素敵な思い出になりました。
+    </p>
+</section>
+
+
+        <footer>
+            <p>&copy; 2025 私の夏の記録</p>
+        </footer>
+    </div>
+</body>
+</html>
+
+
+
